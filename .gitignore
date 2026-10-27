@@ -1,0 +1,24 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Streamlit local state
+.streamlit/
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor configurations
+.vscode/
+.idea/
